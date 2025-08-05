@@ -228,7 +228,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./image/group.jpg);
+	background-image: url(./Image/group.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -332,7 +332,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./image/vikas.jpg);
+	background-image: url(./Image/vikas.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -813,5 +813,6 @@ p {
 		margin: 1.5%;
 	}
 }
+
 
 /* End  Media Query For Desktop */
